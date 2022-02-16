@@ -10,3 +10,7 @@ print()
 
 # print hello world
 print("Hello World")
+
+# print bye
+print()
+print("Good Bye!")
